@@ -1,0 +1,6 @@
+open ~/.zshrc
+
+//Add this line to the bottom of the config file.
+alias FinalProject='cd /Users/carson/Documents/carson_Final_Project'
+
+source ~/.zshrc

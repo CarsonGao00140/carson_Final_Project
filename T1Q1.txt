@@ -1,0 +1,3 @@
+mkdir /Users/carson/Documents/carson_Final_Project
+cd /Users/carson/Documents/carson_Final_Project
+touch T1Q1.txt
